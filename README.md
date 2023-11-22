@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jagriti
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on minor projects
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me sri21jagriti@gmail.com
 
 <!---
