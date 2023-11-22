@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jagriti
 - 👀 I’m interested in web development.
-- 💭 Ask me about HTML, Css.
-- 🌱 I’m currently learning javascript.
+- 💭 Ask me about HTML, CSS, little about JS & more about C language.
+- 🌱 I’m currently learning Data Structure.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me sri21jagriti@gmail.com
 
