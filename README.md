@@ -1,5 +1,6 @@
 - 👋 Hi, I’m jagriti
 - 👀 I’m interested in web development.
+- 💭 Ask me about HTML, Css.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me sri21jagriti@gmail.com
