@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web development & database management
 - 🌱 I’m currently learning ...python & DSA
 - 💞️ I’m looking to collaborate on ...Database Administrator #Oracle_queen
-- 📫 How to reach me ...@sri21jagriti@mpgi.edu.in
+- 📫 How to reach me ...sri21jagriti@mpgi.edu.in
 - ⚡ Fun fact: ...focused & passionated ✨
 
 <!---
